@@ -9,6 +9,10 @@ Supported stacks:
 - Bootstrap
 - Font Awesome
 - SVG
+
+Playing Games Lucky Wheel (Spin Draw)
+- HTML, CSS, Javascript, AJAX
+
 ![Alt Form Register](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/frm_register.jpg)
 
 ![Alt Form OTP ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/check_sms_otp_success.jpg)
@@ -26,4 +30,4 @@ Admin management
 
 
 Video Demo Register Mobile Number OTP Authentication using Firebase and Laravel.
-![Alt Video ](https://www.youtube.com/watch?v=0I2fngt7blw)
+[![Watch the video](https://i9.ytimg.com/vi_webp/0I2fngt7blw/mqdefault.webp?v=66a76e55&sqp=CPzbnbUG&rs=AOn4CLDfXSiMzWB0jEp3C8h78M684ZtLOA)](https://youtu.be/0I2fngt7blw)
