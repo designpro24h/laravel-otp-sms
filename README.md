@@ -31,4 +31,6 @@ Admin management
 
 Video Demo Register Mobile Number OTP Authentication using Firebase and Laravel.
 
+Watch Video Youtube
+
 [![Watch the video](https://i9.ytimg.com/vi_webp/0I2fngt7blw/mqdefault.webp?v=66a76e55&sqp=CPzbnbUG&rs=AOn4CLDfXSiMzWB0jEp3C8h78M684ZtLOA)](https://youtu.be/0I2fngt7blw)
