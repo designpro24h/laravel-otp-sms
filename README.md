@@ -17,3 +17,9 @@ Supported stacks:
 
 ![Alt Form OTP ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/winwin-luckywheel.jpg)
 
+Admin management 
+- Show list user 
+![Alt Form OTP ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/admin_management.jpg)
+
+- Show locations at HCM City
+![Alt Form OTP ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/zone_management.jpg)
