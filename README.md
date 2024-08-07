@@ -28,6 +28,17 @@ Admin management
 - Show locations at HCM City
 ![Alt Form OTP ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/zone_management.jpg)
 
+Categories List
+![Alt Categories List](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/category.jpg)
+
+Tags List
+![Alt Tag List](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/tags.jpg)
+
+Tag Edit
+![Alt Tag List](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/tag_edit.jpg)
+
+Setting management
+![Alt Tag List](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/settings.jpg)
 
 Video Demo Register Mobile Number OTP Authentication using Firebase and Laravel.
 
