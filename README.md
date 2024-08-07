@@ -22,6 +22,8 @@ Playing Games Lucky Wheel (Spin Draw)
 ![Alt Form OTP ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/winwin-luckywheel.jpg)
 
 Admin management 
+- Admin login 
+![Alt Admin login ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/admin_login.jpg)
 - Show list user 
 ![Alt Form OTP ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/admin_management.jpg)
 
@@ -30,7 +32,9 @@ Admin management
 
 Categories List
 ![Alt Categories List](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/category.jpg)
-
+banner_list
+Banner List
+![Alt banner_list ](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/banner_list)
 Tags List
 ![Alt Tag List](https://github.com/designpro24h/laravel-otp-sms/blob/main/screenshot/tags.jpg)
 
